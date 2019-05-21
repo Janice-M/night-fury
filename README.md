@@ -1,5 +1,5 @@
 # night-fury
 of dragons and beautiful creatures
 {Dragon}
-#### {Brief description of application}, {Date of current version}
+#### {play dates}, {Beautiful dragons}
 #### By **{Janice M}*
